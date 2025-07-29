@@ -57,7 +57,7 @@ An **IoT-based Event Data Recorder (EDR)** captures **real-time driving data** t
 
 ## 🎥 Watch the Demo
 
-[![Watch the Demo](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://youtu.be/dQw4w9WgXcQ)
+[![Watch the Demo](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/v.mp4)
 
 > 📺 Click above to view live demo showcasing event detection, logging, and real-time monitoring.
 
