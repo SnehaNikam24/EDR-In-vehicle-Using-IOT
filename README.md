@@ -38,7 +38,7 @@ An **IoT-based Event Data Recorder (EDR)** captures **real-time driving data** t
 ![Live Hardware View](assets/3.jpg)
 
 ### 🔍 Full Circuit Top View  
-![Top View](assets/4.jpg)
+![Top View]([assets/4.jpg](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/4.jpg))
 
 ### 🧪 Working Setup with Serial Monitor  
 ![Serial Monitor Output](assets/1.jpg)
