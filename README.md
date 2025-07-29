@@ -57,7 +57,7 @@ This project focused on the development and integration of an Event-Driven Recor
 
 ## 🎥 Watch the Demo
 
-![Watch the Demo](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/v.mp4)
+![Watch the Demo](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/video.gif)
 
 > 📺 Click above to view live demo showcasing event detection, logging, and real-time monitoring.
 
@@ -73,5 +73,5 @@ This project focused on the development and integration of an Event-Driven Recor
 
 ---
 
-📩 **Contact**: [Sneha]()
+📩 **Contact**: [Sneha](snehanikam749@gmail.com)
 
