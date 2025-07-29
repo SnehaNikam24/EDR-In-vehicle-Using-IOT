@@ -65,13 +65,13 @@ This project focused on the development and integration of an Event-Driven Recor
 
 ## 🔮 Future Enhancements
 
-🚀 AI-based collision prediction
-📲 Mobile app integration
-📊 Realtime dashboards with graphs
-🧠 Machine learning for driver scoring
-🔔 Voice-based driver alerts
+- 🚀 AI-based collision prediction
+- 📲 Mobile app integration
+- 📊 Realtime dashboards with graphs
+- 🧠 Machine learning for driver scoring
+- 🔔 Voice-based driver alerts
 
 ---
 
-📩 **Contact**: [Sneha](snehanikam749@gmail.com)
+📩 **Contact**: [Sneha](mailto:snehanikam749@gmail.com)
 
