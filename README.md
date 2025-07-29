@@ -3,7 +3,7 @@
 
 ## 📌 Project Summary
 
-An **IoT-based Event Data Recorder (EDR)** captures **real-time driving data** to assist in **accident detection**, **post-crash investigation**, and **driver behavior analysis**. Just like an airplane's black box, this system ensures vital vehicle data is always recorded securely and accessible remotely.
+This project focused on the development and integration of an Event-Driven Recording (EDR) system for vehicles, leveraging data from Electronic Control Units (ECUs) and onboard sensors. The system continuously captures critical data during key events such as collisions, sudden accelerations, or system malfunctions. The recorded data is used for post-incident analysis, aiding in accident reconstruction and root cause identification. EDR enhances vehicle safety by providing actionable insights for improving design and developing more advanced safety features.
 
 ---
 
@@ -35,13 +35,13 @@ An **IoT-based Event Data Recorder (EDR)** captures **real-time driving data** t
 ## 📸 Project Images
 
 ### 🖥️ Live Hardware + Monitoring  
-![Live Hardware View](assets/3.jpg)
+![Live Hardware View](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/1.jpg)
 
 ### 🔍 Full Circuit Top View  
-![Top View]([assets/4.jpg](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/4.jpg))
+![Top View](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/4.jpg)
 
 ### 🧪 Working Setup with Serial Monitor  
-![Serial Monitor Output](assets/1.jpg)
+![Serial Monitor Output](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/3.jpg)
 
 ---
 
@@ -57,25 +57,11 @@ An **IoT-based Event Data Recorder (EDR)** captures **real-time driving data** t
 
 ## 🎥 Watch the Demo
 
-[![Watch the Demo](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/v.mp4)
+![Watch the Demo](https://github.com/SnehaNikam24/EDR-In-vehicle-Using-IOT/blob/main/v.mp4)
 
 > 📺 Click above to view live demo showcasing event detection, logging, and real-time monitoring.
 
----
-
-## 📊 Sample Output (JSON Format)
-
-```json
-{
-  "timestamp": "2025-07-29T13:50:00Z",
-  "speed": "58 km/h",
-  "location": { "lat": 19.8762, "lon": 75.3433 },
-  "acceleration": "2.9 m/s²",
-  "event": "Sudden Brake Detected"
-}
-````
-
----
+--- 
 
 ## 🔮 Future Enhancements
 
@@ -87,14 +73,5 @@ An **IoT-based Event Data Recorder (EDR)** captures **real-time driving data** t
 
 ---
 
-## 👨‍💻 Team Credits
-
-| 👤 Name              | 🎓 Role                    |
-| -------------------- | -------------------------- |
-| Devendra Ahire       | Developer & IoT Integrator |
-| \[Add teammate name] | Hardware Developer         |
-| \[Add teammate name] | Code & Testing             |
-| \[Add teammate name] | Cloud Integration          |
-
-📩 **Contact**: [Senha](mailto:drahire371322@kkwagh.edu.in)
+📩 **Contact**: [Senha]()
 
